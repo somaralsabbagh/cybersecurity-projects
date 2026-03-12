@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-label="Events Page">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#1d2740"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg)"/>
+  <rect x="30" y="30" width="1140" height="70" rx="12" fill="#172742" stroke="#3b82f6"/>
+  <text x="60" y="75" fill="#f1f5ff" font-size="30" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Security Events</text>
+  <rect x="30" y="130" width="1140" height="530" rx="12" fill="#0f1b2e" stroke="#304766"/>
+  <rect x="50" y="165" width="1100" height="65" rx="8" fill="#1a2e4a"/>
+  <text x="70" y="205" fill="#ffb4b4" font-size="22" font-family="Segoe UI, Arial, sans-serif">[HIGH] Unauthorized flow attempt blocked by policy gate</text>
+  <rect x="50" y="245" width="1100" height="65" rx="8" fill="#183a3f"/>
+  <text x="70" y="285" fill="#a7ffd9" font-size="22" font-family="Segoe UI, Arial, sans-serif">[INFO] Kerberos step-up completed for session host=10.0.0.8</text>
+  <rect x="50" y="325" width="1100" height="65" rx="8" fill="#21304d"/>
+  <text x="70" y="365" fill="#d2e6ff" font-size="22" font-family="Segoe UI, Arial, sans-serif">[WARN] RADIUS retry count increased for segment VLAN-30</text>
+  <rect x="50" y="405" width="1100" height="65" rx="8" fill="#1a2e4a"/>
+  <text x="70" y="445" fill="#ffb4b4" font-size="22" font-family="Segoe UI, Arial, sans-serif">[HIGH] Quarantine policy enforced on unknown device fingerprint</text>
+  <rect x="50" y="485" width="1100" height="65" rx="8" fill="#183a3f"/>
+  <text x="70" y="525" fill="#a7ffd9" font-size="22" font-family="Segoe UI, Arial, sans-serif">[INFO] Session promoted to full access after compliance validation</text>
+</svg>
