@@ -1,0 +1,50 @@
+group,original_media_file,packaged_file,caption
+core_diagram,image34.png,01_figure_34_Layered_Security_Map_and_Code_Mapping.png,Figure 34 Layered Security Map and Code Mapping
+core_diagram,image35.png,02_figure_35_High_Level_System_Architecture.png,Figure 35 High-Level System Architecture
+core_diagram,image36.png,03_figure_36_End_to_End_Decision_and_Enforcement_Dataflow.png,Figure 36 End-to-End Decision and Enforcement Dataflow
+core_diagram,image37.png,04_figure_37_Core_Client_State_Transition_Lifecycle.png,Figure 37 Core Client State Transition Lifecycle
+core_diagram,image40.png,05_figure_40_Simplified_Campus_Topology_and_Segmentation.png,Figure 40 Simplified Campus Topology and Segmentation
+core_diagram,image41.png,06_figure_41__Controller_Responsibilities_and_Module_Interactions.png,Figure 41  Controller Responsibilities and Module Interactions
+core_diagram,image44.png,07_figure_44_DHCP_Binding_Lifecycle.png,Figure 44 DHCP Binding Lifecycle
+core_diagram,image46.png,08_figure_46_ARP_Inspection_Decision_Flow__DAI.png,Figure 46 ARP Inspection Decision Flow (DAI)
+core_diagram,image50.png,09_figure_50_Portal_to_Client_Identity_Association__IP___MAC.png,Figure 50 Portal-to-Client Identity Association (IP → MAC)
+core_diagram,image53.png,10_figure_53_RBAC_Policy_Evaluation_Pipeline.png,Figure 53 RBAC Policy Evaluation Pipeline
+core_diagram,image55.png,11_figure_55_enforcement_Outcomes__Allow_vs_Drop_Quarantine.png,Figure 55 enforcement Outcomes (Allow vs Drop/Quarantine)
+core_diagram,image57.png,12_figure_57_PAM_to_Controller_Authorization_Flow.png,Figure 57 PAM-to-Controller Authorization Flow
+core_diagram,image58.png,13_figure_58_Proof_TTL_Timeline_and_Auto_Re_Quarantine.png,Figure 58 Proof TTL Timeline and Auto Re-Quarantine
+core_diagram,image60.png,14_figure_60_Session_Lifecycle_Management.png,Figure 60 Session Lifecycle Management
+core_diagram,image62.png,15_figure_62_Dashboard_Data_Sources_and_Flow.png,Figure 61 Dashboard Data Sources and Flow
+dashboard_ui,image73.png,01_ui_figure_73_Dashboard_event_stream__access_accept.png,Figure 72 Dashboard event stream (access-accept)
+dashboard_ui,image80.png,02_ui_figure_80_Dashboard_sessions_view.png,Figure 79 Dashboard sessions view
+dashboard_ui,image84.png,03_ui_figure_84_Dashboard_session_expiry_verification.png,Figure 83 Dashboard session expiry verification
+dashboard_ui,image93.png,04_ui_figure_93_Dashboard_proof_status.png,Figure 91 Dashboard proof status
+dashboard_ui,image98.png,05_ui_figure_98_Dashboard_Hybrid_posture_confirmed.png,Figure 96 Dashboard Hybrid posture confirmed
+all_chapter4,image34.png,03_all_chapter4_extracted/figure_34.png,Figure 34 Layered Security Map and Code Mapping
+all_chapter4,image35.png,03_all_chapter4_extracted/figure_35.png,Figure 35 High-Level System Architecture
+all_chapter4,image36.png,03_all_chapter4_extracted/figure_36.png,Figure 36 End-to-End Decision and Enforcement Dataflow
+all_chapter4,image37.png,03_all_chapter4_extracted/figure_37.png,Figure 37 Core Client State Transition Lifecycle
+all_chapter4,image38.png,03_all_chapter4_extracted/figure_38.png,Figure 38 Ports Listening Evidence
+all_chapter4,image39.png,03_all_chapter4_extracted/figure_39.png,Figure 39 Controller REST API health check output
+all_chapter4,image40.png,03_all_chapter4_extracted/figure_40.png,Figure 40 Simplified Campus Topology and Segmentation
+all_chapter4,image41.png,03_all_chapter4_extracted/figure_41.png,Figure 41  Controller Responsibilities and Module Interactions
+all_chapter4,image42.png,03_all_chapter4_extracted/figure_42.png,Figure 42 Switch flow table dump showing installed OpenFlow rules
+all_chapter4,image43.png,03_all_chapter4_extracted/figure_43.png,Figure 43 Flow table snippet highlighting Quarantine cookie and rule priorities
+all_chapter4,image44.png,03_all_chapter4_extracted/figure_44.png,Figure 44 DHCP Binding Lifecycle
+all_chapter4,image45.png,03_all_chapter4_extracted/figure_45.png,Figure 45 Core ACK learning path
+all_chapter4,image46.png,03_all_chapter4_extracted/figure_46.png,Figure 46 ARP Inspection Decision Flow (DAI)
+all_chapter4,image47.png,03_all_chapter4_extracted/figure_47.png,Figure 47 ARP Violation Handling Logic
+all_chapter4,image48.png,03_all_chapter4_extracted/figure_48.png,Figure 48 Show a recent ARP-related audit line
+all_chapter4,image49.png,03_all_chapter4_extracted/figure_49.png,Figure 49 ARP Violation Handling Logic
+all_chapter4,image50.png,03_all_chapter4_extracted/figure_50.png,Figure 50 Portal-to-Client Identity Association (IP → MAC)
+all_chapter4,image51.png,03_all_chapter4_extracted/figure_51.png,Figure 51 RADIUS Role Mapping using Filter-Id
+all_chapter4,image52.png,03_all_chapter4_extracted/figure_52.png,Figure 52 lightweight wiring evidence
+all_chapter4,image53.png,03_all_chapter4_extracted/figure_53.png,Figure 53 RBAC Policy Evaluation Pipeline
+all_chapter4,image54.png,03_all_chapter4_extracted/figure_54.png,Figure 54 RBAC Rule Evaluation Logic
+all_chapter4,image55.png,03_all_chapter4_extracted/figure_55.png,Figure 55 enforcement Outcomes (Allow vs Drop/Quarantine)
+all_chapter4,image56.png,03_all_chapter4_extracted/figure_56.png,Figure 56 Quarantine Removal and Re-Application Conditions
+all_chapter4,image57.png,03_all_chapter4_extracted/figure_57.png,Figure 57 PAM-to-Controller Authorization Flow
+all_chapter4,image58.png,03_all_chapter4_extracted/figure_58.png,Figure 58 Proof TTL Timeline and Auto Re-Quarantine
+all_chapter4,image59.png,03_all_chapter4_extracted/figure_59.png,Figure 59 Rate Limiting Window and Timestamp Gate
+all_chapter4,image60.png,03_all_chapter4_extracted/figure_60.png,Figure 60 Session Lifecycle Management
+all_chapter4,image61.png,03_all_chapter4_extracted/figure_61.png,
+all_chapter4,image62.png,03_all_chapter4_extracted/figure_62.png,Figure 61 Dashboard Data Sources and Flow
