@@ -1,0 +1,49 @@
+﻿<svg width="1600" height="540" viewBox="0 0 1600 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="540" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#060B16"/>
+      <stop offset="0.5" stop-color="#0B2145"/>
+      <stop offset="1" stop-color="#123F66"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1320 120) rotate(126) scale(300 230)">
+      <stop stop-color="#22D3EE" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1450 400) rotate(150) scale(420 310)">
+      <stop stop-color="#60A5FA" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="92" y1="95" x2="680" y2="95" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2DD4BF"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="14" y="14" width="1572" height="512" rx="30" fill="url(#bg)"/>
+  <rect x="14" y="14" width="1572" height="512" rx="30" stroke="#2D5E88" stroke-opacity="0.5"/>
+
+  <ellipse cx="1320" cy="120" rx="300" ry="230" fill="url(#glowA)"/>
+  <ellipse cx="1450" cy="400" rx="420" ry="310" fill="url(#glowB)"/>
+
+  <path d="M1020 106H1550" stroke="#60A5FA" stroke-opacity="0.25" stroke-width="2"/>
+  <path d="M980 146H1570" stroke="#22D3EE" stroke-opacity="0.2" stroke-width="2"/>
+  <path d="M1060 450H1530" stroke="#60A5FA" stroke-opacity="0.2" stroke-width="2"/>
+
+  <rect x="92" y="90" width="588" height="8" rx="4" fill="url(#line)"/>
+
+  <text x="92" y="176" fill="#EAF3FF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="66" font-weight="760">Security &amp; AI Portfolio</text>
+  <text x="92" y="230" fill="#A8CBFF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="30" font-weight="620">Private Repositories • Architecture-Driven Showcase</text>
+  <text x="92" y="286" fill="#A5BFD8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24">Malware Intelligence • SDN Hybrid AAA • Policy Enforcement Engineering</text>
+
+  <rect x="92" y="324" width="340" height="56" rx="12" fill="#0A284B" stroke="#2563EB" stroke-opacity="0.55"/>
+  <text x="118" y="360" fill="#DFF0FF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" font-weight="600">2 Featured Private Projects</text>
+
+  <rect x="446" y="324" width="330" height="56" rx="12" fill="#0E3040" stroke="#14B8A6" stroke-opacity="0.55"/>
+  <text x="472" y="360" fill="#D4FFF7" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" font-weight="600">Cybersecurity + AI Focus</text>
+
+  <rect x="790" y="324" width="315" height="56" rx="12" fill="#142748" stroke="#60A5FA" stroke-opacity="0.55"/>
+  <text x="816" y="360" fill="#E7F0FF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" font-weight="600">Evidence-Oriented Delivery</text>
+
+  <text x="92" y="446" fill="#7FA3C2" font-family="Consolas, Menlo, monospace" font-size="19">Designing resilient systems across identity, policy, and intelligence workflows.</text>
+</svg>
