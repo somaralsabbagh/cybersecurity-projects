@@ -1,0 +1,20 @@
+﻿<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" rx="18" fill="#0B1324"/>
+  <text x="36" y="46" fill="#E2E8F0" font-family="Segoe UI" font-size="26" font-weight="700">Portfolio Metrics</text>
+
+  <rect x="36" y="86" width="260" height="170" rx="14" fill="#0F172A" stroke="#334155"/>
+  <text x="62" y="128" fill="#93C5FD" font-family="Segoe UI" font-size="18" font-weight="600">Featured Projects</text>
+  <text x="140" y="196" fill="#E2E8F0" font-family="Segoe UI" font-size="64" font-weight="700">2</text>
+
+  <rect x="324" y="86" width="260" height="170" rx="14" fill="#0F172A" stroke="#334155"/>
+  <text x="360" y="128" fill="#6EE7B7" font-family="Segoe UI" font-size="18" font-weight="600">Security Domains</text>
+  <text x="428" y="196" fill="#E2E8F0" font-family="Segoe UI" font-size="64" font-weight="700">2</text>
+
+  <rect x="612" y="86" width="260" height="170" rx="14" fill="#0F172A" stroke="#334155"/>
+  <text x="648" y="128" fill="#A5B4FC" font-family="Segoe UI" font-size="18" font-weight="600">Core Tracks</text>
+  <text x="716" y="196" fill="#E2E8F0" font-family="Segoe UI" font-size="64" font-weight="700">5</text>
+
+  <rect x="900" y="86" width="260" height="170" rx="14" fill="#0F172A" stroke="#334155"/>
+  <text x="936" y="128" fill="#F9A8D4" font-family="Segoe UI" font-size="18" font-weight="600">Workflows</text>
+  <text x="1004" y="196" fill="#E2E8F0" font-family="Segoe UI" font-size="64" font-weight="700">2</text>
+</svg>
