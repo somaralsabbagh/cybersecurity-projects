@@ -1,0 +1,25 @@
+<svg width="900" height="420" viewBox="0 0 900 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="420" rx="24" fill="#0F172A"/>
+  <rect x="34" y="34" width="832" height="352" rx="20" fill="#111827" stroke="#1F2937"/>
+  <text x="70" y="95" fill="#E5E7EB" font-size="34" font-weight="700" font-family="Arial, Helvetica, sans-serif">SDN AAA Security Platform</text>
+  <rect x="70" y="125" width="132" height="36" rx="10" fill="#132033"/>
+  <text x="91" y="149" fill="#CBD5E1" font-size="16" font-family="Arial, Helvetica, sans-serif">Hybrid AAA</text>
+  <rect x="215" y="125" width="150" height="36" rx="10" fill="#132033"/>
+  <text x="242" y="149" fill="#CBD5E1" font-size="16" font-family="Arial, Helvetica, sans-serif">Policy-driven</text>
+  <rect x="380" y="125" width="132" height="36" rx="10" fill="#132033"/>
+  <text x="406" y="149" fill="#CBD5E1" font-size="16" font-family="Arial, Helvetica, sans-serif">Monitoring</text>
+  <rect x="70" y="205" width="170" height="64" rx="16" fill="#0B1220" stroke="#27445D"/>
+  <text x="114" y="243" fill="#F8FAFC" font-size="20" font-weight="700" font-family="Arial, Helvetica, sans-serif">RADIUS</text>
+  <rect x="298" y="205" width="170" height="64" rx="16" fill="#0B1220" stroke="#27445D"/>
+  <text x="336" y="243" fill="#F8FAFC" font-size="20" font-weight="700" font-family="Arial, Helvetica, sans-serif">Kerberos</text>
+  <rect x="526" y="205" width="170" height="64" rx="16" fill="#0B1220" stroke="#27445D"/>
+  <text x="561" y="243" fill="#F8FAFC" font-size="20" font-weight="700" font-family="Arial, Helvetica, sans-serif">Portal Auth</text>
+  <rect x="298" y="300" width="170" height="64" rx="16" fill="#0B1220" stroke="#27445D"/>
+  <text x="331" y="338" fill="#F8FAFC" font-size="20" font-weight="700" font-family="Arial, Helvetica, sans-serif">Controller</text>
+  <path d="M240 237H298" stroke="#38BDF8" stroke-width="5" stroke-linecap="round"/>
+  <path d="M468 237H526" stroke="#38BDF8" stroke-width="5" stroke-linecap="round"/>
+  <path d="M383 269V300" stroke="#22C55E" stroke-width="5" stroke-linecap="round"/>
+  <text x="725" y="260" fill="#93C5FD" font-size="20" font-family="Arial, Helvetica, sans-serif">AAA orchestration</text>
+  <text x="725" y="290" fill="#93C5FD" font-size="20" font-family="Arial, Helvetica, sans-serif">policy enforcement</text>
+  <text x="725" y="320" fill="#93C5FD" font-size="20" font-family="Arial, Helvetica, sans-serif">session visibility</text>
+</svg>
